@@ -1,5 +1,6 @@
 -- File: xor.vhd
 -- Viktoras Jakovlevas Eif-16/1
+-- 2018-02-27
 library ieee;
 use ieee.std_logic_1164.all;
 
